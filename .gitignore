@@ -93,8 +93,7 @@ dist
 
 # Gatsby files
 .cache/
-# Comment in the public line in if your project uses Gatsby and not Next.js
-# https://nextjs.org/blog/next-9-1#public-directory-support
+# Comment in the public line if your project uses Gatsby and not Next.js
 # public
 
 # vuepress build output
@@ -134,3 +133,16 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# **ADDITIONAL: Ignore uploads folder where resumes are stored**
+uploads/
+
+# React build output (if you build frontend separately)
+build/
+
+# If your React frontend is in a separate folder, ignore node_modules there too
+# client/node_modules/
+
+# Ignore any OS generated files
+.DS_Store
+Thumbs.db
