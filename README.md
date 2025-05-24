@@ -1,4 +1,4 @@
-# 💼 Job Board Web Application (MERN Stack)
+# Job Board Web Application (MERN Stack)
 
 A full-featured Job Board web application built using the **MERN** stack. Employers can post and manage jobs, while candidates can search, apply, and track their job applications. Admins can manage users and content through a dedicated dashboard.
 
@@ -6,26 +6,26 @@ A full-featured Job Board web application built using the **MERN** stack. Employ
 
 ## 📌 Key Features
 
-### 👤 Candidate
+###  Candidate
 - Register/Login
 - Browse and search jobs
 - Apply to jobs
 - View applications and statuses
 - Upload resume
 
-### 🏢 Employer
+###  Employer
 - Register/Login
 - Post, edit, and delete jobs
 - View applications received for each job
 - Track number of views per job
 
-### 🛠️ Admin
+###  Admin
 - View all candidates, employers, jobs, applications
 - Delete any candidate, employer, or job
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 ### 🔹 Frontend
 - React.js
@@ -33,7 +33,7 @@ A full-featured Job Board web application built using the **MERN** stack. Employ
 - Axios
 - React Bootstrap
 
-### 🔹 Backend
+###  Backend
 - Node.js
 - Express.js
 - MongoDB (MongoDB Atlas)
@@ -41,7 +41,7 @@ A full-featured Job Board web application built using the **MERN** stack. Employ
 
 ---
 
-## ⚙️ Installed Dependencies
+##  Installed Dependencies
 
 | Package           | Usage                                                                 |
 |------------------|-----------------------------------------------------------------------|
@@ -55,9 +55,9 @@ A full-featured Job Board web application built using the **MERN** stack. Employ
 
 ---
 
-## 🚀 Getting Started Locally
+##  Getting Started Locally
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Dineshk-connect/job-board-mern.git
-cd job-board-mern
+git clone https://github.com/Dineshk-connect/JobBoard-Application.git
+cd JobBoard-Application
